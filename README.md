@@ -6,6 +6,13 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dulcelene-machado-470851321/)
 - ⚡ Fun fact: I once got curious about code because of Instagram posts, now I'm building apps myself. Voilà!
 
+##
+
+### Some of My Projects
+- [StudentsConnect](https://www.studentsconnect.me/)
+- [Zmacar](https://www.zmacar.com/)
+- [Skill Swap](https://skill-swap-50ab56ba490f.herokuapp.com/)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
