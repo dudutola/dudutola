@@ -1,6 +1,6 @@
 ## Coucou. I'm Dulcelene 👋
 
-- 🔭 I’m currently working on Issection, an app I created to log the issues I often run into but always forget, so I have a place to quickly find the answers when I need them.
+- 🔭 I’m currently working on Equai, an app that connects to an AI-powered tool for detecting anomalies in veterinary medical imaging. My role focuses on building the app, managing requests, and creating a smooth interface, while my colleague develops the AI behind the scenes. This project lets me apply my skills in Rails, frontend development, and API integration in a real-world scenario.
 - 🌱 I’m currently learning Ruby on Rails, Stimulus.js, and how to build better user experiences
 - 👯 I’m looking to collaborate on beginner-friendly open-source projects or anything related to web development and education.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dulcelene-machado-470851321/)
